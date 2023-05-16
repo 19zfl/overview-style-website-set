@@ -3,25 +3,19 @@
 - https://img.shields.io
 - https://github-readme-streak-stats.herokuapp.com/demo/
 
-<!--
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div> 
--->
 
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br> // 敲代码的图片
 
-<!--
 My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
--->
 
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=50&pause=1000&color=000000&background=FFF636&vCenter=true&width=660&height=60&lines=Zhang+Ying+is+a+pig+!+hh" alt="Typing SVG" /></a>
 </div>
 
-
-<!--
 <div align="center">
   <a href="https://blog.csdn.net/m0_53692627?type=blog"><img src="https://img.shields.io/badge/csdn-%E5%8D%9A%E5%AE%A2-orange" title="public/已公开" /></a>
   <a href="#"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4" title="private/私密" /></a>
@@ -105,16 +99,7 @@ My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 </div>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=19zfl&theme=xcode" /> </div>
--->
 
-
-
-
-
-
-
-
-<!--
 # 👋 Hello
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19zfl)](https://github.com/19zfl/github-readme-stats)
@@ -122,9 +107,7 @@ My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19zfl&layout=compact)](https://github.com/19zfl/github-readme-stats)
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Christmas&show_icons=true&theme=tokyonight)
--->
 
-<!--
 ### Hi there 👋
 ### Welcome to my Github ！💖💖💖
 
@@ -134,6 +117,4 @@ My![Visitor Count](https://profile-counter.glitch.me/19zfl/count.svg)visitor
 --------
 <img align="" height="137px" width="400px" src="https://github-readme-stats.vercel.app/api?username=19zfl&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 
-<img align="" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19zfl&hide_title=true&hide_border=true&layout=compact&bg_color=white,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
--->
-                                     
+<img align="" height="150px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19zfl&hide_title=true&hide_border=true&layout=compact&bg_color=white,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />                               
